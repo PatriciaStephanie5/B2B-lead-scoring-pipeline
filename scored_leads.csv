@@ -1,0 +1,11 @@
+company,industry,employee_count,engagement_score,lead_score
+AlphaTech,SaaS,250,85,10
+CloudNine,SaaS,500,90,10
+SalesFlow,SaaS,400,92,10
+GrowthHub,SaaS,600,78,10
+NextGenAI,AI,300,75,7
+Finlytics,Fintech,220,88,7
+BetaSoft,Fintech,120,60,0
+DataBridge,Data,80,40,0
+MarketGenius,Marketing,150,55,0
+InsightIQ,Analytics,90,50,0
